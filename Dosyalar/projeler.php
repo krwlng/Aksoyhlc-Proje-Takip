@@ -230,7 +230,7 @@ include'header.php'
 </div>
 <!--Datatables çıkış-->
 </div>
-
+<a href="projeekle.php" class="btn btn-primary" role="button" >Yeni Proje Ekle</a>
 
 <?php include'footer.php' ?>
 
